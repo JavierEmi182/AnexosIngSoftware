@@ -41,7 +41,7 @@ Meeting records and letters of acceptance\
   <li><a href="ActasReunion/ActaReunion14.pdf">MeetingRecord14</a></li>
   <li><a href="ActasReunion/ActaReunion15.pdf">MeetingRecord15</a></li>
   <li><a href="ActasReunion/ActaReunion16.pdf">MeetingRecord16</a></li>
-  <!-- <li><a href="">MeetingRecord17</a></li> -->
+  <li><a href="ActasReunion/ActaReunion17.pdf">MeetingRecord17</a></li>
 </ul>
 </details>
 
