@@ -10,6 +10,8 @@ Meeting records and letters of acceptance\
   <li><a href="https://github.com/JavierEmi182/AnexosIngSoftware/blob/main/ScrumMeetings/ScrumMeeting01.pdf">ScrumMeeting01</a></li>
   <li><a href="ScrumMeetings/ScrumMeeting02.pdf">ScrumMeeting02</a></li>
   <li><a href="ScrumMeetings/ScrumMeeting03.pdf">ScrumMeeting03</a></li>
+  <li><a href="ScrumMeetings/ScrumMeeting04.pdf">ScrumMeeting04</a></li>
+  <li><a href="ScrumMeetings/ScrumMeeting05.pdf">ScrumMeeting05</a></li>
   <!---->
 </ul>
 </details>
