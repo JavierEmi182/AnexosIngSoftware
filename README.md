@@ -45,6 +45,10 @@ Meeting records and letters of acceptance\
   <li><a href="ActasReunion/ActaReunion15.pdf">MeetingRecord15</a></li>
   <li><a href="ActasReunion/ActaReunion16.pdf">MeetingRecord16</a></li>
   <li><a href="ActasReunion/ActaReunion17.pdf">MeetingRecord17</a></li>
+  <li><a href="ActasReunion/ActaReunion18.pdf">MeetingRecord18</a></li>
+  <li><a href="ActasReunion/ActaReunion19.pdf">MeetingRecord19</a></li>
+  <li><a href="ActasReunion/ActaReunion20.pdf">MeetingRecord20</a></li>
+  <li><a href="ActasReunion/ActaReunion21.pdf">MeetingRecord21</a></li>
 </ul>
 </details>
 
@@ -59,6 +63,6 @@ On the following meeting record, we redefined requirements with the client [Acta
   <li><a href="https://github.com/JavierEmi182/AnexosIngSoftware/blob/main/SystemDeploymentGuides/DogWalker_API_InstallationGuide.pdf">Back-end Installation Guide</a></li>
 </ul>
 </details>
-<a href="">User's Manual</a> <br>
+<a href="SystemDeploymentGuides/User manual.pdf">User's Manual</a> <br>
 <a href="https://github.com/JavierEmi182/AnexosIngSoftware/blob/main/Sprints/SprintReview01.pdf">SprintReview01</a> <br>
-<a href="https://github.com/JavierEmi182/AnexosIngSoftware/blob/main/AceptacionSprints/CartaAceptacion1erSprint.pdf">Acceptance of Sprint</a>
+<a href="https://github.com/JavierEmi182/AnexosIngSoftware/blob/main/AceptacionSprints/AcceptanceLetter1stSprint.pdf">Acceptance of Sprint</a>
