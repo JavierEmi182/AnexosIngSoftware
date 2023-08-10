@@ -68,5 +68,5 @@ On the following meeting record, we redefined requirements with the client [Acta
 </ul>
 </details>
 <a href="SystemDeploymentGuides/User manual.pdf">User's Manual</a> <br>
-<a href="https://github.com/JavierEmi182/AnexosIngSoftware/blob/main/AceptacionSprints/AcceptanceLetter1stSprint.pdf">Acceptance of 1st Sprint</a>
+<a href="https://github.com/JavierEmi182/AnexosIngSoftware/blob/main/AceptacionSprints/AcceptanceLetter1stSprint.pdf">Acceptance of 1st Sprint</a> <br>
 <a href="https://github.com/JavierEmi182/AnexosIngSoftware/blob/main/AceptacionSprints/AcceptanceLetterFinal.pdf">Acceptance of Final Project</a>
