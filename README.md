@@ -14,7 +14,6 @@ Meeting records and letters of acceptance\
   <li><a href="ScrumMeetings/ScrumMeeting04.pdf">ScrumMeeting04</a></li>
   <li><a href="ScrumMeetings/ScrumMeeting05.pdf">ScrumMeeting05</a></li>
   <li><a href="ScrumMeetings/ScrumMeeting06.pdf">ScrumMeeting06</a></li>
-  <li><a href="ScrumMeetings/ScrumMeeting07.pdf">ScrumMeeting07</a></li>
   <!---->
 </ul>
 </details>
