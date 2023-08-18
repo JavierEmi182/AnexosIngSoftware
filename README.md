@@ -14,7 +14,6 @@ Meeting records and letters of acceptance\
   <li><a href="ScrumMeetings/ScrumMeeting04.pdf">ScrumMeeting04</a></li>
   <li><a href="ScrumMeetings/ScrumMeeting05.pdf">ScrumMeeting05</a></li>
   <li><a href="ScrumMeetings/ScrumMeeting06.pdf">ScrumMeeting06</a></li>
-  <li><a href="ScrumMeetings/ScrumMeeting07.pdf">ScrumMeeting07</a></li>
   <!---->
 </ul>
 </details>
@@ -69,4 +68,5 @@ On the following meeting record, we redefined requirements with the client [Acta
 </details>
 <a href="SystemDeploymentGuides/User manual.pdf">User's Manual</a> <br>
 <a href="https://github.com/JavierEmi182/AnexosIngSoftware/blob/main/AceptacionSprints/AcceptanceLetter1stSprint.pdf">Acceptance of 1st Sprint</a> <br>
+<a href="https://github.com/JavierEmi182/AnexosIngSoftware/blob/main/AceptacionSprints/AcceptanceLetter2ndSprint.pdf">Acceptance of 2nd Sprint</a> <br>
 <a href="https://github.com/JavierEmi182/AnexosIngSoftware/blob/main/AceptacionSprints/AcceptanceLetterFinal.pdf">Acceptance of Final Project</a>
